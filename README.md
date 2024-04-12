@@ -1,4 +1,4 @@
-# NKK and FCI Dog Breeds Database
+# NKK and FCI Dog Breed Database
 
 fci-nkk-breeds
 
