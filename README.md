@@ -23,4 +23,4 @@ Any breed standards linked are from the NKK or FCI, and are linked to their resp
 
 All images have been found on the Internet via image search. All rights to these images belong to the person who owns it. If you find an image here that you own, and do not want to be used here, please let me know and I'll have it removed.
 
-As of now, they're used under "Fair Use", are not used for commercial purposes, and in good faith. I intend only to use them to show what the given breed looks like and hope it's OK that your dog, or image, was used to represent the breed.
+They are not used for commercial purposes, and in good faith. I intend only to use them to show what the given breed looks like and hope it's OK that your dog, or image, was used to represent the breed.
