@@ -1,0 +1,20 @@
+ # Operating system files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# KDE (Kubuntu)
+.directory
+
+# IDE-specific files
+# JetBrains (IntelliJ IDEA, PyCharm, CLion, etc.)
+.idea/
+*.iml
+*.iws
+.idea_modules/
+*.log
+*.ipr
